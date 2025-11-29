@@ -1,7 +1,7 @@
 {
   "name": "com.digimbyte.itemregistry",
-  "version": "1.0.0",
-  "displayName": "Item Registry",
+  "version": "1.0.1",
+  "displayName": "CorePackages",
   "description": "A generic registry system for managing items and assets in Unity.",
   "unity": "2021.3",
   "author": {
@@ -14,8 +14,6 @@
     "asset",
     "management"
   ],
-  "dependencies": {
-    "com.sirenix.odininspector": "4.0.0"
-  },
+  "dependencies": {  },
   "type": "library"
 }
