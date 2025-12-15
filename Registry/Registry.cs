@@ -12,7 +12,7 @@ namespace Core.Registry
     /// Asset Registry that manages a collection of asset entries organized by UID/path.
     /// Each registry is TYPE-LOCKED to only store one type of asset (prefab, texture, material, mesh, or audio).
     /// </summary>
-    [CreateAssetMenu(fileName = "NewRegistry", menuName = "Core/Registry")]
+    [CreateAssetMenu(fileName = "NewRegistry", menuName = "Core/Data/Registry")]
     public class Registry : ScriptableObject
     {
         [SerializeField]
