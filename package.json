@@ -1,12 +1,12 @@
 {
-  "name": "com.digimbyte.snowfall",
+  "name": "com.digimbyte.core",
   "version": "1.0.7",
-  "displayName": "CorePackages",
-  "description": "A generic registry system for managing items and assets in Unity.",
+  "displayName": "Core Framework",
+  "description": "A boiler plate framework for facilitating game data and systems to build scalable games or apps within Unity.",
   "unity": "2021.3",
   "author": {
     "name": "digimbyte",
-    "url": "https://github.com/digimbyte/Snowfall"
+    "url": "https://github.com/digimbyte/core-framework"
   },
   "keywords": [
     "registry",
