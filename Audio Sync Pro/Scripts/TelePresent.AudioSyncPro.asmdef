@@ -1,0 +1,16 @@
+{
+    "name": "TelePresent.AudioSyncPro",
+    "rootNamespace": "TelePresent.AudioSyncPro",
+    "references": [
+        "GUID:5ffb678c52fbef943a6c9871d0c80ce5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
